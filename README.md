@@ -5,4 +5,4 @@ This repository contains the code for an automated pipeline for digitising and i
 
 
 ## 📷 Image processing and object detection
-![Alt Text](image_analysis_steps.png)
+![Alt Text](image/image_processing.png)
