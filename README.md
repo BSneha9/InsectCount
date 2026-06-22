@@ -6,3 +6,17 @@ This repository contains the code for an automated pipeline for digitising and i
 
 ## 📷 Image processing and object detection
 ![Alt Text](image/image_processing.png)
+
+
+## Pipeline Overview
+
+The pipeline consists of the following stages:
+
+1. Image Preprocessing
+2. Object Detection (YOLOv11m)
+
+    Identifies: Individual specimens, Drawer columns, Genus-group labels and species-goup labels
+
+3. Optical Character Recognition (OCR)
+4. Post-processing & Aggregation
+Links specimens to labels and compiles counts per taxon. Exports results as a CSV file for downstream analysis.
