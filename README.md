@@ -22,8 +22,9 @@ The pipeline consists of the following stages:
 Links specimens to labels and compiles counts per taxon. Exports results as a CSV file for downstream analysis.
 
 ## Cite our work
-If you use or refer to this work please use the following citation:
+If you use our script, model or refer to this work please use the following citation:
 
+```
 @Article{Bhansali2026,
   title = 	 {From pixels to data: automated reconstruction of taxonomic series from whole-drawer images in historical insect collections},
   author =       {Bhansali, Sneha and Ignatev, Nikolai and Simões, Marianna},
@@ -34,6 +35,7 @@ If you use or refer to this work please use the following citation:
   doi = 	 {10.3897/nhcm.3.196081},
   url = 	 {https://doi.org/10.3897/nhcm.3.196081},
 }
+```
 
 ## Question
 In case of questions not answered here or would like to get in touch, please contact! 
