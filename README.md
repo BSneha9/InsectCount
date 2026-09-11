@@ -30,7 +30,6 @@ If you use our script, model or refer to this work please use the following cita
   author =       {Bhansali, Sneha and Ignatev, Nikolai and Simões, Marianna},
   journal = 	 {Natural History Collections and Museomics},
   volume = 	 {3},
-  pages = 	 {e196081},
   year = 	 {2026},
   doi = 	 {10.3897/nhcm.3.196081},
   url = 	 {https://doi.org/10.3897/nhcm.3.196081},
