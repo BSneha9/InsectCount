@@ -20,3 +20,6 @@ The pipeline consists of the following stages:
 3. Optical Character Recognition (OCR)
 4. Post-processing & Aggregation
 Links specimens to labels and compiles counts per taxon. Exports results as a CSV file for downstream analysis.
+
+
+In case of questions not answered here, please contact!
