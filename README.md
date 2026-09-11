@@ -21,5 +21,19 @@ The pipeline consists of the following stages:
 4. Post-processing & Aggregation
 Links specimens to labels and compiles counts per taxon. Exports results as a CSV file for downstream analysis.
 
+## Cite our work
+If you use or refer to this work please use the following citation:
 
-In case of questions not answered here, please contact!
+@Article{Bhansali2026,
+  title = 	 {From pixels to data: automated reconstruction of taxonomic series from whole-drawer images in historical insect collections},
+  author =       {Bhansali, Sneha and Ignatev, Nikolai and Simões, Marianna},
+  journal = 	 {Natural History Collections and Museomics},
+  volume = 	 {3},
+  pages = 	 {e196081},
+  year = 	 {2026},
+  doi = 	 {10.3897/nhcm.3.196081},
+  url = 	 {https://doi.org/10.3897/nhcm.3.196081},
+}
+
+## Question
+In case of questions not answered here or would like to get in touch, please contact! 
